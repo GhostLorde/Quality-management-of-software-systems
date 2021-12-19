@@ -1,0 +1,22 @@
+[
+  "File_manager.py::test_cp_file",
+  "File_manager.py::test_create_file",
+  "File_manager.py::test_dir_work_1",
+  "File_manager.py::test_mv_file",
+  "File_manager.py::test_read_file",
+  "File_manager.py::test_rm_dir",
+  "File_manager.py::test_rm_file",
+  "File_manager.py::test_rn_file",
+  "File_manager.py::test_writefile",
+  "test_example.py::test_example",
+  "testing_File_manager.py::test_cp_file",
+  "testing_File_manager.py::test_create_file",
+  "testing_File_manager.py::test_dir_work_1",
+  "testing_File_manager.py::test_mv_file",
+  "testing_File_manager.py::test_negative_makeDir",
+  "testing_File_manager.py::test_read_file",
+  "testing_File_manager.py::test_rm_dir",
+  "testing_File_manager.py::test_rm_file",
+  "testing_File_manager.py::test_rn_file",
+  "testing_File_manager.py::test_writefile"
+]
